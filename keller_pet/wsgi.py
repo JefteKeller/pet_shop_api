@@ -1,5 +1,5 @@
 """
-WSGI config for kenzie_pet project.
+WSGI config for keller_pet project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'kenzie_pet.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'keller_pet.settings')
 
 application = get_wsgi_application()

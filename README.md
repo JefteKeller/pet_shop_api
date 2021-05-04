@@ -1,6 +1,6 @@
-# ***Kenzie Pet***
+# ***Keller Pet***
 
-## *Kenzie Pet* é uma plataforma para ajudar donos de PetShop a guardar dados de animais
+## *Keller Pet* é uma plataforma para ajudar donos de PetShop a guardar dados de animais
 
 >***
 > Esta API web foi implementada com Django e Django Rest Framework.
